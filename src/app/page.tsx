@@ -14,7 +14,7 @@ export default function Home() {
       <section className="relative h-screen flex items-center bg-gradient-to-r from-gray-900 to-gray-800 text-white">
         <div className="absolute inset-0 bg-black/50">
           <Image
-            src="/images/turbineNIS.png"
+            src="/images/turbineNIS.PNG"
             alt="Wind Turbine NIS Diagram"
             fill
             className="object-cover opacity-20"
@@ -117,7 +117,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="bg-gray-100 p-8 rounded-lg">
             <Image
-              src="/images/turbineNIS.png"
+              src="/images/turbineNIS.PNG"
               alt="NIS Diagram"
               width={600}
               height={400}
