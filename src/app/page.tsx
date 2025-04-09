@@ -55,7 +55,7 @@ export default function Home() {
           </h2>
           <p className="text-xl text-gray-800 mb-12 max-w-4xl mx-auto text-center">
             ITCS is a smart control system that monitors rooftop wind turbines using 
-            wireless sensors and mesh network tech. It's designed to help homeowners 
+            wireless sensors and mesh network tech. It&apos;s designed to help homeowners 
             and businesses access efficient, affordable renewable energy on-site—starting 
             with Camden, NJ.
           </p>
