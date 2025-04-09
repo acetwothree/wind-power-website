@@ -44,7 +44,7 @@ export default function Header() {
                   : 'text-white hover:text-green-400'
               }`}
             >
-              Why It's Different
+              Why It&apos;s Different
             </Link>
           </nav>
         </div>
